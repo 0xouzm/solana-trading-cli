@@ -202,7 +202,7 @@ This software is provided "as is", without warranty of any kind, express or impl
 
 By using this software, you acknowledge that you have read, understood, and agree to this disclaimer.
 
-### Discord channel: https://discord.gg/75nfhjup
+### Discord channel: https://discord.gg/dc3Kh3Y3yJ
 
 ### If you think this will steal your keys, i have no time to convince you to use it.
 
